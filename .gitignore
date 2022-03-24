@@ -32,3 +32,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Configuration files ###
+/src/main/resources/config.properties
