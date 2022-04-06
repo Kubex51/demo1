@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.boat;
 
 public class BoatCapability {
     private float rangeInNM;

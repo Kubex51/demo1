@@ -1,7 +1,10 @@
 package com.example.demo;
 
 
-import org.apache.http.HttpEntity;
+import com.example.demo.ports.Port;
+import com.example.demo.ports.PortService;
+import com.example.demo.windy.APIEndpoint;
+import com.example.demo.windy.WindyApiParams;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.util.EntityUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,8 +14,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
 @RestController
 @RequestMapping

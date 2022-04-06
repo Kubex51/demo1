@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.windy;
 
 import org.apache.http.client.methods.CloseableHttpResponse;
 

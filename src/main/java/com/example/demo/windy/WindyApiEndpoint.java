@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.windy;
 
 import com.google.gson.Gson;
 import org.apache.http.client.HttpClient;

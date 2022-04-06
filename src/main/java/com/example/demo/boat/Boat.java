@@ -1,4 +1,6 @@
-package com.example.demo;
+package com.example.demo.boat;
+
+import com.example.demo.extra.Person;
 
 public class Boat {
     private String manufacturer;

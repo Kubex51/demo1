@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.windy;
 
 public class WindyApiParams {
     double lat;

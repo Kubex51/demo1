@@ -1,4 +1,9 @@
-package com.example.demo;
+package com.example.demo.extra;
+
+import com.example.demo.Equipment;
+import com.example.demo.boat.Boat;
+import com.example.demo.extra.Person;
+import com.example.demo.ports.Location;
 
 import java.time.Duration;
 import java.util.List;
